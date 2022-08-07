@@ -1,2 +1,2 @@
-# SkyrimTogetherModlisst
+# SkyrimTogetherModlist
 for mohn jarston
